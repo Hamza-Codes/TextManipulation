@@ -1,0 +1,1 @@
+@py.exe E:\Python Projects\Python Practice Projects\Automating_Boring_Tasks_with_Python\Password Locker\main.py %*
